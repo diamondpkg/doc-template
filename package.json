@@ -1,0 +1,28 @@
+{
+  "diamond": {
+    "dependencies": {
+      "caramel": "github:kurisubrooks/caramel#master"
+    }
+  },
+  "name": "diamond-doc-template",
+  "version": "0.1.0",
+  "description": "The default template for diamond doc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diamondpkg/doc-template.git"
+  },
+  "keywords": [
+    "diamond",
+    "doc",
+    "template"
+  ],
+  "author": "Hackzzila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diamondpkg/doc-template/issues"
+  },
+  "homepage": "https://github.com/diamondpkg/doc-template#readme"
+}

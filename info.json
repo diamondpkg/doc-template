@@ -1,0 +1,9 @@
+{
+  "name": "testapp",
+  "hasVariables": true,
+  "variables": [
+    { "name": "foo", "url": "foo.html" }
+  ],
+  "hasFunctions": false,
+  "hasClasses": false
+}
